@@ -30,4 +30,4 @@
 
 <h3 align="left">Support:</h3>
 <a href="https://upsidedownlabs.tech/" align="left" > <img src="https://store.upsidedownlabs.tech/wp-content/uploads/2022/01/Hero.svg" width="140" height="45"></img> </a><br><br>
-<p><a href="https://www.buymeacoffee.com/ buymeacoffee.com/fizak3739W "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=" buymeacoffee.com/fizak3739W " /></a></p>
+<p><a href="https://www.buymeacoffee.com/fizak3739W"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=" buymeacoffee.com/fizak3739W " /></a></p>
