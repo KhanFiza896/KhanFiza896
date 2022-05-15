@@ -29,5 +29,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KhanFiza896&" alt="khanfiza896" /></p>
 
 <h3 align="left">Support:</h3>
-<a href="https://upsidedownlabs.tech/" align="left" > <img src="https://store.upsidedownlabs.tech/wp-content/uploads/2022/01/Hero.svg" width="140" height="45"></img> </a><br><br>
+<a href="https://upsidedownlabs.tech/" align="left" > <img src=" https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4E0BAQFfQjNHxIBEYg%2Fcompany-logo_200_200%2F0%2F1617910684584%3Fe%3D2147483647%26v%3Dbeta%26t%3Dj5LvA2xZrRjo2Vs3xCCK15NFhQ5BDtv8HtrHrtd1K2g&imgrefurl=https%3A%2F%2Fin.linkedin.com%2Fcompany%2Fupsidedownlabs&tbnid=Y81fFSjlFM4B8M&vet=12ahUKEwir0J-Mg-L3AhVz9XMBHR-iAdYQMygAegUIARC-AQ..i&docid=4iGyai2MtBjI3M&w=200&h=200&q=upside%20down%20labs&ved=2ahUKEwir0J-Mg-L3AhVz9XMBHR-iAdYQMygAegUIARC-AQ" width="140" height="45"></img> </a><br><br>
 <p><a href="https://www.buymeacoffee.com/fizak3739W"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=" buymeacoffee.com/fizak3739W " /></a></p>
